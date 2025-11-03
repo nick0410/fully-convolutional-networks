@@ -13,4 +13,4 @@ Pixel-wise road segmentation for aerial/drone vision tasks.
 
  Integrated visualization pipeline to compare input drone image, ground truth mask, and predicted segmentation.
 
-Dataset included in this repository as a ZIP folder for ease of access.
+Dataset included must be included with th images by drones and masks
